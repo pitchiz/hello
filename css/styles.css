@@ -6096,6 +6096,7 @@ a.close.disabled {
 
 .bg-primary {
   background-color: #f4623a !important;
+  opacity: 0.5;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
