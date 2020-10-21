@@ -28,7 +28,7 @@
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
-  --warning: #ffc107;
+  --warning: #f3ab41;
   --danger: #dc3545;
   --light: #f8f9fa;
   --dark: #343a40;
@@ -6094,6 +6094,14 @@ a.close.disabled {
   vertical-align: text-top !important;
 }
 
+.bg-image {
+  background:url("../assets/img/micro8noir.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
 .bg-primary {
   background-color: #f4623a !important;
 }
@@ -10163,4 +10171,8 @@ header.masthead h1 {
 
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
+}
+
+.fas {
+	color: #f3ab41;
 }
