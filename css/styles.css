@@ -6096,9 +6096,9 @@ a.close.disabled {
 
 .bg-image {
   background:url("../assets/img/micro8noir.jpg") !important;
-  background-position: center center;
+  background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-attachment: scroll;
   background-size: cover;
    
 }
