@@ -6105,7 +6105,7 @@ button.bg-primary:focus {
 }
 
 .bg-secondary {
-  background-color: #6c757d !important;
+  background-image: url("../assets/img/micro8noir.jpg");
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
